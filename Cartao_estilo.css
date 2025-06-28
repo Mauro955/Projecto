@@ -9,7 +9,6 @@
             font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
         }
         div{
-            flex-wrap: wrap;
             background-color: white;
             height: 460px;
             width: 300px;
